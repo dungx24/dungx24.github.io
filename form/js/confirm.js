@@ -14,7 +14,7 @@ function loadData(){
 }
 
 function cancel(){
-	window.location = "register.html";
+	window.location = "index.html";
 }
 
 function init(){
